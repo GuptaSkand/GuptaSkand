@@ -54,6 +54,8 @@
 <a href="https://linkedin.com/in/skandgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="skandgupta" height="30" width="40" /></a>
 <a href="https://instagram.com/_skand__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_skand__" height="30" width="40" /></a>
 <a href="https://atcoder.jp/users/skand" target="blank"><img align="center" src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" alt="@skandgupta02" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/guptaskand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="guptaskand" height="30" width="40" /></a>
 </p>
 
+![LeetCode Stats](https://leetcode.card.workers.dev/GuptaSkand?theme=dark&font=baloo&extension=activity)
 
