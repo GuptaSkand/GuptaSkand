@@ -19,11 +19,11 @@
 ### 👀 To release a feature what I do is...
 - To check if the feature can added to our website
 - To check how other features will be affected
-- To check which Azure service will be most cost efficient
-- To check bottleneck cases and document them all in System Architecture Design(SAD)
-- Create Sub-System Design to point-out the classes that will be affected by the implementation
+- To check which Azure service will be the most cost-efficient
+- To check bottleneck cases and document them in System Architecture Design(SAD)
+- Create Sub-System Design to point-out affected classes
 - Implement the feature
-- Send test cases to testing team and the feature gets released
+- Send test cases to testing team and the feature get released
 
 ### 🛠️ As a System reliability engineer...
 - Create Unit-tests for code-relaibilty
