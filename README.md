@@ -13,8 +13,11 @@
 - I got my Bachelor's degree from Indian Institute of Technology (IIT) majoring in Computer Science and Engineering
 
 ### 👩‍💻 My work mainly focuses on...
-- Receiving feature requirements from group sales company, assemble the design, and add features to the website through implementation
+- Agile development flow of receiving feature requirements from group sales company, assemble the design, and add features to the website through implementation
 - System reliability
+
+<img align="centre" alt="Coding" width="1000" src="https://www.aceinfoway.com/blog/wp-content/uploads/2022/05/best-practices-to-follow-for-agile-software-development-in-2022.gif">
+
 
 ### 👀 To release a feature what I do is...
 - To check if the feature can added to our website
